@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hosting on Website For Bad Bitches</title>
+    <link>http://localhost:1313/tags/hosting/</link>
+    <description>Recent content in Hosting on Website For Bad Bitches</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Server Hosting</title>
+      <link>http://localhost:1313/posts/on-servers/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/on-servers/</guid>
+      <description>Cloud So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
+    </item>
+  </channel>
+</rss>

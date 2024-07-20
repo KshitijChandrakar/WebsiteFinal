@@ -1,6 +1,12 @@
-For Server Hosting
+---
+title: "On Server Hosting"
+tags: [server, hosting]
+description: "Thoughts on Server Hosts"
+date: 2017-04-09T10:58:08-04:00
+categories: Story
+---
+
 ## Cloud
-#hosting #server 
 So What are we looking for in a web service provider?
 here's what I'll base them on-
 - Design Process - How complex the work is and weather or not it has a UI Designer
@@ -23,6 +29,3 @@ This is for webservers you can host yourself, would not recommend this method if
 | Apache      | 7                  | Kinda Old at the point of writing but works amazingly, you have better options out there, Very Manual.                                                                                  |
 | Hugo Server | 9                  | Amazing thing, great for testing servers, also works for production. Technically its a site builder but the inbuilt server is pretty great and has amazing integrations with everything |
 |             |                    |                                                                                                                                                                                         |
-
-
-
