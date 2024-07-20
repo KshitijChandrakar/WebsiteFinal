@@ -5,9 +5,9 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
-
+  page-build:
   # Allows you to run this workflow manually from the Actions tab
-  #workflow_dispatch:
+  workflow_dispatch:
 
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
