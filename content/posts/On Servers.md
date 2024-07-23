@@ -1,9 +1,9 @@
 ---
-title: "On Server Hosting"
-tags: [server, hosting]
-description: "Thoughts on Server Hosts"
 date: 2017-04-09T10:58:08-04:00
-categories: Story
+description: "Thoughts on Server Hosts"
+categories: 'Story'
+tags: [server, hosting]
+title: "On Server Hosting"
 ---
 
 ## Cloud

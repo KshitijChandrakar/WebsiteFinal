@@ -32,7 +32,6 @@
                 </div>
             </div>
             {{ else }}
-            <!--<a class="a-block nav-link-item {{$actived}}" href="{{ .URL }}">-->
             <a class="a-block nav-link-item {{ $actived }}" href="{{ .URL }}">
                 {{ .Name }}
             </a>
@@ -40,10 +39,10 @@
         {{ end }}
     </div>
 
-    
+
 
     <div class="nav-footer">
         {{partial "copyright.html" .}}
     </div>
-    
+
 </div>

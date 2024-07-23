@@ -2,6 +2,7 @@ baseURL = 'http://www.carmeliarose.shop/'
 languageCode = 'en-us'
 title = 'Website For Bad Bitches'
 theme = 'diary'
+
 [markup]
   [markup.highlight]
     codeFences = true
@@ -15,15 +16,29 @@ theme = 'diary'
     tabWidth = 4
 
 [params]
-subtitle = "By Carmelia Rose"
-enableGitalk = false
-enableGiscus = true
-
+  subtitle = 'By Carmelia Rose'
+  enableGitalk = false
+  enableGiscus = false
 
 [taxonomies]
    tag = "tags"
    category = "categories"
 
+
+# Please visit https://giscus.app/ to generate settings.
+# [params.giscus]
+#     data_repo="username/repo"
+#     data_repo_id="**************************"
+#     data_category="General"
+#     data_category_id="*********************"
+#     data_mapping="pathname"
+#     data_strict="0"
+#     data_reactions_enabled="1"
+#     data_emit_metadata="0"
+#     data_input_position="bottom"
+#     data_theme="preferred_color_scheme"
+#     data_lang="en"
+#     crossorigin="anonymous"
 
 
 [[menu.main]]
