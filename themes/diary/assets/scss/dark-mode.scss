@@ -1,11 +1,16 @@
 @import "journal";
+$textd: #f4f7e3;
+$backgroundd: #9b59d0;
+$primaryd: #afba36;
+$secondaryd: #fff433;
+$accentd: #2d5e9f;
 
-$light-accent: lighten($color-accent, 10%);
-$deep-light-accent: lighten($color-accent, 30%);
-$dark-mode-text: darken(#fff, 10%);
+$light-accent: $textd;
+$deep-light-accent: $secondaryd;
+$dark-mode-text: $textd;
 
-$dark-mode-back-container-background: #212121;
-$dark-mode-front-container-background: #282828;
+$dark-mode-back-container-background: $backgroundd;
+$dark-mode-front-container-background: $secondaryd;
 
 body.night {
   background: $dark-mode-back-container-background;

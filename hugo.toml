@@ -15,7 +15,7 @@ theme = 'diary'
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "By Carmelia Rose"
 enableGitalk = false
 enableGiscus = true
 

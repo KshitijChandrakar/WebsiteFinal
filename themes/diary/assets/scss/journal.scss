@@ -1,9 +1,9 @@
-$text: #1a1d08;
-$background: #fafbf2;
-$primary: #bdc943;
-$secondary: #97e1df;
-$accent: #6192d2;
-
+$text: #2d2d2d;//black
+$background: #f5abb9;//blue
+$primary: #9b59d0;//pink
+$secondary: #5bcffa;//purple
+$accent: #fff433;//yellow
+$Transwhite: #ffffff; //white
 
 
 $color-accent: $text;//Accent 0
@@ -23,7 +23,7 @@ $mono-font-list: "Fira Mono", "Cousine", Monaco, Menlo, "Source Code Pro",
 $sans-preferred-font-list: $default-font-list;
 
 $side-container-width: 25%; //280px;
-$extra-container-width: 25%;
+$extra-container-width: 15%;
 $extra-container-pagination-width: 64px;
 $stream-container-max-width: 1620px;
 
