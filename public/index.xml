@@ -1,9 +1,9 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website For Bad Bitches</title>
+    <title>Kshitij Chandrakar</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Website For Bad Bitches</description>
+    <description>Recent content on Kshitij Chandrakar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
@@ -13,12 +13,97 @@
     
     
         <item>
+        <title>How To Make a White Sauce Pasta</title>
+        <link>http://localhost:1313/projects/cumpasta/</link>
+        <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+        
+        <guid>http://localhost:1313/projects/cumpasta/</guid>
+        <description>Kshitij Chandrakar http://localhost:1313/projects/cumpasta/ -&lt;h1 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h1&gt;
+&lt;p&gt;Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Quantity&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Milk&lt;/td&gt;
+&lt;td&gt;2 Cups like 200ml&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maida&lt;/td&gt;
+&lt;td&gt;2 teaspoons&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cheese&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;as much as your heart desires&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pasta&lt;/td&gt;
+&lt;td&gt;Like, whatever you think would fit two people, i use like 250 to 300gm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Salt&lt;/td&gt;
+&lt;td&gt;like 1 to 1.5 tablespoons, but put according to your tastes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;And Here&amp;rsquo;s What you need to make it magical and actually have flavour&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;.&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bell Peppers&lt;/td&gt;
+&lt;td&gt;Onions&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chilli Flakes&lt;/td&gt;
+&lt;td&gt;Oregano&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Olives&lt;/td&gt;
+&lt;td&gt;Whatever other veggies you want to eat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;now-for-the-preparation&#34;&gt;Now, For the Preparation&lt;/h1&gt;
+&lt;h2 id=&#34;pasta&#34;&gt;Pasta:&lt;/h2&gt;
+&lt;p&gt;Put your pasta of choice on boil on the side, look to the packaging to see how much you need to boil it.
+Save the Water when you strain it.&lt;/p&gt;
+&lt;h2 id=&#34;the-veggies&#34;&gt;The Veggies:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Fry the Veggies, Preferably in Olive Oil, put them aside.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;the-sauce&#34;&gt;The Sauce:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Heat and melt the butter&lt;/li&gt;
+&lt;li&gt;Put the Maida in it, Fry it for a bit until it smells nice.&lt;/li&gt;
+&lt;li&gt;When the Maida is cooked, Put some milk in it while stirring so that it doesn&amp;rsquo;t Clump Together. &lt;strong&gt;(MAKE SURE IT DOESNT HAPPEN)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;put the rest of the milk in it, making it a nice liquid.&lt;/li&gt;
+&lt;li&gt;before it thickens, put the chosen spices and cheese in it.&lt;/li&gt;
+&lt;li&gt;Melt the cheese, thicken the sauce, stir to mix in the spices.&lt;/li&gt;
+&lt;li&gt;Put in the fried veggies, and the boiled pasta. Mix it in.&lt;/li&gt;
+&lt;li&gt;Serve Hot, Garnish with Basil or Dhaniya.&lt;/li&gt;
+&lt;/ol&gt;
+- http://localhost:1313/projects/cumpasta/ - </description>
+        </item>
+    
+    
+    
+        <item>
         <title>On Server Hosting</title>
         <link>http://localhost:1313/posts/on-servers/</link>
         <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
         
         <guid>http://localhost:1313/posts/on-servers/</guid>
-        <description>Website For Bad Bitches http://localhost:1313/posts/on-servers/ -&lt;h2 id=&#34;cloud&#34;&gt;Cloud&lt;/h2&gt;
+        <description>Kshitij Chandrakar http://localhost:1313/posts/on-servers/ -&lt;h2 id=&#34;cloud&#34;&gt;Cloud&lt;/h2&gt;
 &lt;p&gt;So What are we looking for in a web service provider?
 here&amp;rsquo;s what I&amp;rsquo;ll base them on-&lt;/p&gt;
 &lt;ul&gt;
@@ -95,6 +180,93 @@ Here are the options
 &lt;/tbody&gt;
 &lt;/table&gt;
 - http://localhost:1313/posts/on-servers/ - </description>
+        </item>
+    
+    
+    
+        <item>
+        <title>On Server Hosting</title>
+        <link>http://localhost:1313/recipes/on-servers/</link>
+        <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+        
+        <guid>http://localhost:1313/recipes/on-servers/</guid>
+        <description>Kshitij Chandrakar http://localhost:1313/recipes/on-servers/ -&lt;h2 id=&#34;cloud&#34;&gt;Cloud&lt;/h2&gt;
+&lt;p&gt;So What are we looking for in a web service provider?
+here&amp;rsquo;s what I&amp;rsquo;ll base them on-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design Process - How complex the work is and weather or not it has a UI Designer&lt;/li&gt;
+&lt;li&gt;Integration - How much of a pain is it to set up your own services on it&lt;/li&gt;
+&lt;li&gt;Community - How big and supportive the community is
+Here are the options
+.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Rating (Out of 15)&lt;/th&gt;
+&lt;th&gt;Design&lt;/th&gt;
+&lt;th&gt;Integration&lt;/th&gt;
+&lt;th&gt;Community&lt;/th&gt;
+&lt;th&gt;Remarks&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Wordpress&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Neocities&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky. But an Amazing Place to host stuff if you want  community that appreciates the old style of internet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Github Pages&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;Absolute Best Place to host your website, Domains are a bit finicky to set up but overall its done only once. You Get a Free Domain too. Integrates amazingly with other services but the design process is very manual and you have to provide the files/build yourself. Otherwise Very good.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;selfhosted&#34;&gt;Selfhosted&lt;/h2&gt;
+&lt;p&gt;This is for webservers you can host yourself, would not recommend this method if you want a website that runs continously, since you&amp;rsquo;ll have to have the host machine running. Other than that this would be the most secure option.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Rating (out of 10)&lt;/th&gt;
+&lt;th&gt;Remarks&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Apache&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;Kinda Old at the point of writing but works amazingly, you have better options out there, Very Manual.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hugo Server&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;Amazing thing, great for testing servers, also works for production. Technically its a site builder but the inbuilt server is pretty great and has amazing integrations with everything&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+- http://localhost:1313/recipes/on-servers/ - </description>
         </item>
     
     

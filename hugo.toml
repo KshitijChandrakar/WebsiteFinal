@@ -1,6 +1,6 @@
 baseURL = 'http://www.carmeliarose.shop/'
 languageCode = 'en-us'
-title = 'Website For Bad Bitches'
+title = 'Kshitij Chandrakar'
 theme = 'diary'
 
 [markup]
@@ -19,6 +19,7 @@ theme = 'diary'
   subtitle = 'By Carmelia Rose'
   enableGitalk = false
   enableGiscus = false
+  
 
 [taxonomies]
    tag = "tags"
@@ -42,14 +43,14 @@ theme = 'diary'
 
 
 [[menu.main]]
-url = "/categories"
-name = "Categories"
+url = "/recipes"
+name = "Recipes"
 weight = 2
 [[menu.main]]
-url = "/tags"
-name = "Tags"
+url = "/projects"
+name = "Projects"
 weight = 3
 [[menu.main]]
 url = "/posts"
-name = "Archive"
+name = "Posts"
 weight = 1
