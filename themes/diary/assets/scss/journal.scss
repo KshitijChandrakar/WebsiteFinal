@@ -439,9 +439,7 @@ a {
   text-align: left;
   font-family: $sans-preferred-font-list;
   padding: 20px 0 50px 0;
-  // background-image: url("/images/chinese.jpg");
-  // background-color: rgba($text,0.5);
-  // background-blend-mode: lighten;
+
   //overflow-y: hidden;
   display: flex;
   flex-direction: column;
@@ -510,6 +508,15 @@ a {
         color: darken($color-accent, $nav-item-active-color-darken);
       }
     }
+  }
+  .nav-image{
+    flex-grow: 2;
+    background-image: url("/images/cat.png");
+    background-color: rgba($background,0.5);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: hue;
   }
   .nav-footer {
     padding: 20px 30px 0 20px;
