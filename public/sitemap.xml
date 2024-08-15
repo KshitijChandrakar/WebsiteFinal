@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://192.168.1.24:1313/categories/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hosting/</loc>
+    <loc>http://192.168.1.24:1313/tags/food/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://192.168.1.24:1313/tags/hosting/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/on-servers/</loc>
+    <loc>http://192.168.1.24:1313/recipes/cumpasta/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://192.168.1.24:1313/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/server/</loc>
+    <loc>http://192.168.1.24:1313/posts/on-servers/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/story/</loc>
+    <loc>http://192.168.1.24:1313/projects/on-servers/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://192.168.1.24:1313/tags/pasta/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/posts/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/projects/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/recipes/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/categories/recipes/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/tags/server/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/categories/story/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+  </url><url>
+    <loc>http://192.168.1.24:1313/tags/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
   </url>
 </urlset>

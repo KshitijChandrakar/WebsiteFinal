@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kshitij Chandrakar</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://192.168.1.24:1313/categories/</link>
     <description>Recent content in Categories on Kshitij Chandrakar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.24:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recipes</title>
-      <link>http://localhost:1313/categories/recipes/</link>
+      <link>http://192.168.1.24:1313/categories/recipes/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/categories/recipes/</guid>
+      <guid>http://192.168.1.24:1313/categories/recipes/</guid>
       <description></description>
     </item>
     <item>
       <title>Story</title>
-      <link>http://localhost:1313/categories/story/</link>
+      <link>http://192.168.1.24:1313/categories/story/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/categories/story/</guid>
+      <guid>http://192.168.1.24:1313/categories/story/</guid>
       <description></description>
     </item>
   </channel>
