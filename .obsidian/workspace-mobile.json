@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Database Management /DBMS.md",
+                "file": "content/posts/How it works.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Notes/Database Management /DBMS.md",
+            "file": "content/posts/How it works.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Notes/Database Management /DBMS.md",
+            "file": "content/posts/How it works.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Notes/Database Management /DBMS.md"
+            "file": "content/posts/How it works.md"
           }
         }
       }
@@ -146,6 +146,13 @@
   },
   "active": "8a318dab14cf125b",
   "lastOpenFiles": [
+    "content/Notes/Database Management /DBMS.md",
+    "content/Notes/Discrete Mathematics",
+    "content/Notes/Design and Analysis of Algorithms/DAA 9 August 2024.md",
+    "content/Notes/Design and Analysis of Algorithms",
+    "content/Notes/Database Management/DBMS August 14 2024.md",
+    "content/Notes/Database Management/DBMS.md",
+    "content/Notes/Database Management",
     "content/posts/How it works.md",
     "Untitled.md",
     "public/scss/dark-mode.min.d40d77dc272f19daa4c01de467ffa7bcddc86fbc869ec155232944d457afae89.css",
@@ -155,9 +162,6 @@
     "public/scss/dark-mode.min.5386fb6d6927529a521d8c2b7ad76c777e9377cf38f2cecb7f0b3d06dcb9e3f9.css",
     "public/scss/dark-mode.min.b61532a988b0da2d7e6cde5cde23884aab8f94536648cbbd55224f1597087d99.css",
     "public/scss/dark-mode.min.6c51a451bd135974add0bd56ead75cefa0b1ccf4598fe86cc02600ba17c5cff6.css",
-    "public/scss/dark-mode.min.2892b63a04b6ff663b37d39db1e8e9471fe60368c88e826d6e1312aa1de796f9.css",
-    "public/posts/how-it-works",
-    "public/posts/how-it-works/index.html",
     "/content/posts/How it works.md",
     "archetypes/default.md",
     "content/recipes/cumPasta.md",
@@ -187,9 +191,6 @@
     "/themes/diary/exampleSite/content/posts/chinese.md",
     "/themes/diary/exampleSite/content/posts/chapter-1.md",
     "/themes/diary/archetypes/default.md",
-    "/themes/diary/README.md",
-    "/content/posts/On Servers.md",
-    "content/index.md",
-    "/content/index.md"
+    "/themes/diary/README.md"
   ]
 }
