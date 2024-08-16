@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hosting on Hugo Book</title>
+    <title>Hosting on Carmelia Rose</title>
     <link>http://localhost:1313/tags/hosting/</link>
-    <description>Recent content in Hosting on Hugo Book</description>
+    <description>Recent content in Hosting on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 00:45:35 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hosting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Server Hosting</title>
