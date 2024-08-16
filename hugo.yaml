@@ -1,8 +1,13 @@
 # hugo server --minify --themesDir ../.. --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://www.carmeliarose.shop
+# baseURL: https://www.carmeliarose.shop
 title: Carmelia Rose
 theme: hugo-book
+
+#hugo Module
+module:
+  module.imports:
+    path = 'github.com/alex-shpak/hugo-book'
 
 # Book configuration
 disablePathToLower: true

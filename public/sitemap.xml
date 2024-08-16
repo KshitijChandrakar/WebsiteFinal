@@ -2,98 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Notes/DBMS/DBMS/</loc>
+    <loc>/Notes/DBMS/DBMS/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/tags/DBMS/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/Notes/DBMS/DBMS-August-14-2024/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Notes/</loc>
+    <loc>/categories/Notes/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/tags/semester3/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/tags/DAA/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Notes/DBMS/</loc>
+    <loc>/Notes/DAA/DAA-9-August-2024/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/tags/food/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/DBMS/</loc>
+    <loc>/tags/hosting/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Notes/DBMS/DBMS-August-14-2024/</loc>
+    <loc>/recipes/cumPasta/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/Notes/</loc>
+    <loc>/posts/On-Servers/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/semester3/</loc>
+    <loc>/projects/On-Servers/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/tags/pasta/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Notes/DAA/</loc>
+    <loc>/categories/recipes/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/DAA/</loc>
+    <loc>/tags/server/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Notes/DAA/DAA-9-August-2024/</loc>
+    <loc>/posts/How-it-works/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>/categories/Story/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/</loc>
+    <loc>/Notes/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/Notes/DAA/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/Notes/DBMS/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/recipes/</loc>
+    <lastmod>2024-08-17T01:11:13+05:30</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hosting/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/recipes/cumPasta/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/On-Servers/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/On-Servers/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pasta/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/recipes/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/server/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/How-it-works/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/Story/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/Development/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/golang/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
   </url>
 </urlset>

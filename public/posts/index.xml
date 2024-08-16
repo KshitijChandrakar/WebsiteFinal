@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carmelia Rose</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Server Hosting</title>
-      <link>http://localhost:1313/posts/On-Servers/</link>
+      <link>/posts/On-Servers/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/posts/On-Servers/</guid>
+      <guid>/posts/On-Servers/</guid>
       <description>Cloud&#xD;#&#xD;So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
     </item>
     <item>
       <title>Servers Documentation</title>
-      <link>http://localhost:1313/posts/How-it-works/</link>
+      <link>/posts/How-it-works/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/posts/How-it-works/</guid>
+      <guid>/posts/How-it-works/</guid>
       <description>Well There are a few domains that you can refer to in order to access the Server&#xA;Blog Site My Calibre Server Jellyfin Media Server coder server, coder server domain 2 there is a coding cloud server too, however i do not run it very often as VS code tunnels were more efficient. QBittorrent Web Interface </description>
     </item>
   </channel>

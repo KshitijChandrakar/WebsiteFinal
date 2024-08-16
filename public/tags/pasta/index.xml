@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on Carmelia Rose</title>
-    <link>http://localhost:1313/tags/pasta/</link>
+    <link>/tags/pasta/</link>
     <description>Recent content in Pasta on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 17 Aug 2024 00:45:35 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Make a White Sauce Pasta</title>
-      <link>http://localhost:1313/recipes/cumPasta/</link>
+      <link>/recipes/cumPasta/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/recipes/cumPasta/</guid>
+      <guid>/recipes/cumPasta/</guid>
       <description>Ingredients&#xD;#&#xD;Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&#xA;Name Quantity Milk 2 Cups like 200ml Maida 2 teaspoons Cheese as much as your heart desires Pasta Like, whatever you think would fit two people, i use like 250 to 300gm Salt like 1 to 1.5 tablespoons, but put according to your tastes And Here&amp;rsquo;s What you need to make it magical and actually have flavour</description>
     </item>
   </channel>
