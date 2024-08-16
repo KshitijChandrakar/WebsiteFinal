@@ -5,12 +5,6 @@
     <loc>http://localhost:1313/Notes/DBMS/DBMS/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/creating-a-new-theme/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/migrate-from-jekyll/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/Notes/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
@@ -80,40 +74,26 @@
     <loc>http://localhost:1313/categories/Story/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/goisforlovers/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/development/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/Development/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hugoisforlovers/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/golang/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/golang/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/templates/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/Development/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/go/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/golang/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/templates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/themes/</loc>
   </url>
 </urlset>
