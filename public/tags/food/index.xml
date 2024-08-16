@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Food on Kshitij Chandrakar</title>
+    <title>Food on Hugo Book</title>
     <link>http://localhost:1313/tags/food/</link>
-    <description>Recent content in Food on Kshitij Chandrakar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <description>Recent content in Food on Hugo Book</description>
+    <generator>Hugo</generator>
+    <language>en</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Make a White Sauce Pasta</title>
-      <link>http://localhost:1313/recipes/cumpasta/</link>
+      <link>http://localhost:1313/recipes/cumPasta/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/recipes/cumpasta/</guid>
-      <description>Ingredients Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&#xA;Name Quantity Milk 2 Cups like 200ml Maida 2 teaspoons Cheese as much as your heart desires Pasta Like, whatever you think would fit two people, i use like 250 to 300gm Salt like 1 to 1.5 tablespoons, but put according to your tastes And Here&amp;rsquo;s What you need to make it magical and actually have flavour</description>
+      <guid>http://localhost:1313/recipes/cumPasta/</guid>
+      <description>Ingredients&#xD;#&#xD;Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&#xA;Name Quantity Milk 2 Cups like 200ml Maida 2 teaspoons Cheese as much as your heart desires Pasta Like, whatever you think would fit two people, i use like 250 to 300gm Salt like 1 to 1.5 tablespoons, but put according to your tastes And Here&amp;rsquo;s What you need to make it magical and actually have flavour</description>
     </item>
   </channel>
 </rss>
