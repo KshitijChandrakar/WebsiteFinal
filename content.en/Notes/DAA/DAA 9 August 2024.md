@@ -5,8 +5,8 @@ tags: [semester3, DAA]
 title: "DAA August 9"
 ---
 #### Suggested Books:
-Thomas H Orman - DAA
-Algorithm Design Manual
+Thomas H Orman - DAA   
+[Algorithm Design Manual](https://drive.google.com/file/d/1GQrgfbGIl9AvNB_ySbPF550bTSX00kQM/view?usp=drive_link)
 
 
 

@@ -31,15 +31,14 @@ languages:
     contentDir: content.en
     weight: 1
 menu:
-  before:
-    - name: "Github"
-      url: "https://github.com/KshitijChandrakar"
-      weight: 10
-    - name: "Instagram"
-      url: "www.instagram.com/kshitij_.chandrakar/"
-      weight: 11
-    - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/kshitij-chandrakar-67a65225a/"
+
+  after:
+    - name: "Contact Me"
+      url: "/contact"
+      weight: 12
+    - name: "Tags and Categories"
+      url: "/tags"
+      weight: 13
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.

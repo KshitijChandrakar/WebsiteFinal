@@ -2,59 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Carmelia Rose</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Introduction on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>//localhost:1313/docs/example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/example/table-of-contents/with-toc/</guid>
+      <description>Caput vino delphine in tamen vias&#xD;#&#xD;Cognita laeva illo fracta&#xD;#&#xD;Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.&#xA;Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere&#xD;#&#xD;Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
+    </item>
     <item>
       <title>DBMS August 9</title>
-      <link>/Notes/DBMS/DBMS/</link>
+      <link>//localhost:1313/Notes/DBMS/DBMS/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/Notes/DBMS/DBMS/</guid>
+      <guid>//localhost:1313/Notes/DBMS/DBMS/</guid>
       <description>#databases #semester3&#xA;Reference&#xD;#&#xD;Oracle Docs W3Schools Reference&#xA;Characteristics of Database Approach&#xD;#&#xD;Main Characteristics of Database Approach Self Describing nature of a DB System [ Catalog of the Data ] it contains the DB and Metadata The DB Catalog is Used by DBMS Software DB Users Comparision with Traditional File Processing (TFP)&#xD;#&#xD;TFP can only access specific DBs&#xD;Insulation between program and data abstraction Program Data Independence - structure of the data files is stored in dbms catalog separatey from access programs VS TFP Any Change to the Structure should be reflect in the corresponding programs Program operation Independence In DDDBMS and ORDBMS users can define operations on data as part of DB Definitions an operation is specified in two parts implementation of the operation is specified separately and can be changed without affecting the instance Data Abstraction Allows program data independence and Program Operation Independence It provides users with conceptual representation of data Supports Multiple Views of Data Supports Multiuser Transaction Processing Multiuser DBMS Concorrency Control Software Online Transaction Processing Application </description>
     </item>
     <item>
+      <title>Without ToC</title>
+      <link>//localhost:1313/docs/example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/example/table-of-contents/without-toc/</guid>
+      <description>At me ipso nepotibus nunc celebratior genus&#xD;#&#xD;Tanto oblite&#xD;#&#xD;Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.&#xA;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
+    </item>
+    <item>
       <title>DBMS August 14</title>
-      <link>/Notes/DBMS/DBMS-August-14-2024/</link>
+      <link>//localhost:1313/Notes/DBMS/DBMS-August-14-2024/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/Notes/DBMS/DBMS-August-14-2024/</guid>
+      <guid>//localhost:1313/Notes/DBMS/DBMS-August-14-2024/</guid>
       <description>create table customers ( cid int constraint pk primary key, customer_name varchar(20) check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Adding a name to the constraint&#xD;#&#xD;create table customers ( cid int constraint pk primary key, customer_name varchar(20) constraint ck check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Dropping the constraint&#xD;#&#xD;Alter TABLE customers drop constraint ck ![[Pasted image 20240814143949.</description>
     </item>
     <item>
       <title>DAA August 9</title>
-      <link>/Notes/DAA/DAA-9-August-2024/</link>
+      <link>//localhost:1313/Notes/DAA/DAA-9-August-2024/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/Notes/DAA/DAA-9-August-2024/</guid>
-      <description>&#xD;Suggested Books:&#xD;#&#xD;Thomas H Orman - DAA Algorithm Design Manual&#xA;GCD Code:&#xA;def gcd(m,n): while n != 0 do: r = m mod n m = n n = r return m def gcd(m,n): t = min (m,n) while true: if m%t = 0: if n%t = 0: return t t = t - 1 General Approaches To Algorithm Design&#xA;Divide and Conquer Greedy Method Dynamic Programming Basic Search and Traversal Graph Theory Linear Programming Approximation Algorithm NP Problem HW 9 Aug: Find the prime factors of a given number </description>
+      <guid>//localhost:1313/Notes/DAA/DAA-9-August-2024/</guid>
+      <description>&#xD;Suggested Books:&#xD;#&#xD;Thomas H Orman - DAA&#xA;Algorithm Design Manual&#xA;GCD Code:&#xA;def gcd(m,n): while n != 0 do: r = m mod n m = n n = r return m def gcd(m,n): t = min (m,n) while true: if m%t = 0: if n%t = 0: return t t = t - 1 General Approaches To Algorithm Design&#xA;Divide and Conquer Greedy Method Dynamic Programming Basic Search and Traversal Graph Theory Linear Programming Approximation Algorithm NP Problem HW 9 Aug: Find the prime factors of a given number </description>
     </item>
     <item>
       <title>How To Make a White Sauce Pasta</title>
-      <link>/recipes/cumPasta/</link>
+      <link>//localhost:1313/recipes/cumPasta/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/recipes/cumPasta/</guid>
+      <guid>//localhost:1313/recipes/cumPasta/</guid>
       <description>Ingredients&#xD;#&#xD;Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&#xA;Name Quantity Milk 2 Cups like 200ml Maida 2 teaspoons Cheese as much as your heart desires Pasta Like, whatever you think would fit two people, i use like 250 to 300gm Salt like 1 to 1.5 tablespoons, but put according to your tastes And Here&amp;rsquo;s What you need to make it magical and actually have flavour</description>
     </item>
     <item>
       <title>On Server Hosting</title>
-      <link>/posts/On-Servers/</link>
+      <link>//localhost:1313/posts/On-Servers/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/posts/On-Servers/</guid>
+      <guid>//localhost:1313/posts/On-Servers/</guid>
       <description>Cloud&#xD;#&#xD;So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
     </item>
     <item>
       <title>On Server Hosting</title>
-      <link>/projects/On-Servers/</link>
+      <link>//localhost:1313/projects/On-Servers/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/projects/On-Servers/</guid>
+      <guid>//localhost:1313/projects/On-Servers/</guid>
       <description>Cloud&#xD;#&#xD;So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
     </item>
     <item>
       <title>Servers Documentation</title>
-      <link>/posts/How-it-works/</link>
+      <link>//localhost:1313/posts/How-it-works/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/posts/How-it-works/</guid>
+      <guid>//localhost:1313/posts/How-it-works/</guid>
       <description>Well There are a few domains that you can refer to in order to access the Server&#xA;Blog Site My Calibre Server Jellyfin Media Server coder server, coder server domain 2 there is a coding cloud server too, however i do not run it very often as VS code tunnels were more efficient. QBittorrent Web Interface </description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>You Can Email me at KshitijChandrakar2019@gmail.com&#xA;Github&#xA;Instagram Linkedin</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <description>4th Level of Menu&#xD;#&#xD;Caesorum illa tu sentit micat vestes papyriferi&#xD;#&#xD;Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.&#xA;Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/example/hidden/</guid>
+      <description>This page is hidden in menu&#xD;#&#xD;Quondam non pater est dignior ille Eurotas&#xD;#&#xD;Latent te facies&#xD;#&#xD;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.&#xA;Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona&#xD;#&#xD;O fallor in sustinui iussorum equidem.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/buttons/</guid>
+      <description>&#xD;Buttons&#xD;#&#xD;Buttons are styled links that can lead to local page or external link.&#xA;Example&#xD;#&#xD;{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get Home&#xD;Contribute&#xD;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/columns/</guid>
+      <description>Columns&#xD;#&#xD;Columns help organize shorter pieces of content horizontally for readability.&#xA;{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example&#xD;#&#xD;Left Content&#xD;#&#xD;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/details/</guid>
+      <description>Details&#xD;#&#xD;Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.&#xA;Example&#xD;#&#xD;{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/expand/</guid>
+      <description>Expand&#xD;#&#xD;Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.&#xA;Example&#xD;#&#xD;Default&#xD;#&#xD;{{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand&#xD;↕&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne&amp;hellip;&#xA;With Custom Label&#xD;#&#xD;{{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label&#xD;...&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/hints/</guid>
+      <description>Hints&#xD;#&#xD;Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example&#xD;#&#xD;Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&#xD;Markdown content</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/mermaid/</guid>
+      <description>Mermaid Chart&#xD;#&#xD;MermaidJS is library for generating svg charts and diagrams from text.&#xA;Override Mermaid Initialization Config&#xA;To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!&#xA;Example&#xD;#&#xD;{{&amp;lt; mermaid class=&amp;#34;optional&amp;#34; &amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/section/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/section/first-page/</guid>
+      <description>First page&#xD;#&#xD;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/section/second-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/section/second-page/</guid>
+      <description>Second Page&#xD;#&#xD;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/docs/shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/tabs/</guid>
+      <description>Tabs&#xD;#&#xD;Tabs let you organize content by context, for example installation instructions for each supported platform.&#xA;{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example&#xD;#&#xD;MacOS&#xD;MacOS&#xD;#&#xD;This is tab MacOS content.&#xA;Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    <item>
+      <title>KaTeX</title>
+      <link>//localhost:1313/docs/shortcodes/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/shortcodes/katex/</guid>
+      <description>KaTeX&#xD;#&#xD;KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example&#xD;#&#xD;{{&amp;lt; katex display=true class=&amp;#34;optional&amp;#34; &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}} \[&#xD;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;\]&#xD;Display Mode Example&#xD;#&#xD;Here is some inline example: \(\pi(x)\)&#xD;, rendered in the same line. And below is display example, having display: block \[&#xD;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;\]&#xD;Text continues here.</description>
     </item>
   </channel>
 </rss>

@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Carmelia Rose</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 17 Aug 2024 01:11:13 +0530</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBMS</title>
-      <link>/tags/DBMS/</link>
+      <link>//localhost:1313/tags/DBMS/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/tags/DBMS/</guid>
+      <guid>//localhost:1313/tags/DBMS/</guid>
       <description></description>
     </item>
     <item>
       <title>Semester3</title>
-      <link>/tags/semester3/</link>
+      <link>//localhost:1313/tags/semester3/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/tags/semester3/</guid>
+      <guid>//localhost:1313/tags/semester3/</guid>
       <description></description>
     </item>
     <item>
       <title>DAA</title>
-      <link>/tags/DAA/</link>
+      <link>//localhost:1313/tags/DAA/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>/tags/DAA/</guid>
+      <guid>//localhost:1313/tags/DAA/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>/tags/food/</link>
+      <link>//localhost:1313/tags/food/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/tags/food/</guid>
+      <guid>//localhost:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Hosting</title>
-      <link>/tags/hosting/</link>
+      <link>//localhost:1313/tags/hosting/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/tags/hosting/</guid>
+      <guid>//localhost:1313/tags/hosting/</guid>
       <description></description>
     </item>
     <item>
       <title>Pasta</title>
-      <link>/tags/pasta/</link>
+      <link>//localhost:1313/tags/pasta/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/tags/pasta/</guid>
+      <guid>//localhost:1313/tags/pasta/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>/tags/server/</link>
+      <link>//localhost:1313/tags/server/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>/tags/server/</guid>
+      <guid>//localhost:1313/tags/server/</guid>
       <description></description>
     </item>
   </channel>
