@@ -56,9 +56,6 @@
     <loc>//localhost:1313/posts/On-Servers/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/On-Servers/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/pasta/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
@@ -140,10 +137,18 @@
     <loc>//localhost:1313/recipes/</loc>
     <lastmod>2024-08-17T01:11:13+05:30</lastmod>
   </url><url>
+    <loc>//localhost:1313/projects/Birds-of-Yunhan/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/game-development/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/godot/</loc>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-08-17T00:45:35+05:30</lastmod>
+    <lastmod>2024-08-17T13:05:38+05:30</lastmod>
   </url><url>
     <loc>//localhost:1313/docs/shortcodes/katex/</loc>
     <lastmod>2024-08-17T11:51:19+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/projects/</loc>
   </url>
 </urlset>

@@ -92,8 +92,8 @@
     nekoEl.style.position = "fixed";
     nekoEl.style.pointerEvents = "none";
     nekoEl.style.imageRendering = "pixelated";
-    nekoEl.style.left = `${nekoPosX - 16}px`;
-    nekoEl.style.top = `${nekoPosY - 16}px`;
+    nekoEl.style.left = `${nekoPosX}px`;
+    nekoEl.style.top = `${nekoPosY}px`;
     nekoEl.style.zIndex = 2147483647;
 
     let nekoFile = "./oneko.gif"

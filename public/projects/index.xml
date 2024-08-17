@@ -8,11 +8,11 @@
     <language>en</language>
     <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>On Server Hosting</title>
-      <link>//localhost:1313/projects/On-Servers/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/projects/On-Servers/</guid>
-      <description>Cloud&#xD;#&#xD;So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
+      <title>Birds of Yunhan</title>
+      <link>//localhost:1313/projects/Birds-of-Yunhan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/Birds-of-Yunhan/</guid>
+      <description>Github Repo</description>
     </item>
   </channel>
 </rss>
