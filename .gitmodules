@@ -4,3 +4,6 @@
 [submodule "content.en"]
 	path = content
 	url = https://github.com/KshitijChandrakar/content.en
+[submodule "content"]
+	path = content
+	url = https://github.com/KshitijChandrakar/content.en
