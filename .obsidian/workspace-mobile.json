@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/DBMS.md",
+                "file": "content/posts/How it works.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Notes/DBMS.md",
+            "file": "content/posts/How it works.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/Notes/DBMS.md",
+            "file": "content/posts/How it works.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/Notes/DBMS.md"
+            "file": "content/posts/How it works.md"
           }
         }
       }
@@ -144,16 +144,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a318dab14cf125b",
+  "active": "8080d7bd3fc3793d",
   "lastOpenFiles": [
-    "content/Notes/DAA 9 August 2024.md",
-    "content/posts/How it works.md",
     "content/Notes/Database Management /DBMS.md",
     "content/Notes/Discrete Mathematics",
+    "content/Notes/DAA 9 August 2024.md",
     "content/Notes/Design and Analysis of Algorithms",
     "content/Notes/DBMS August 14 2024.md",
     "content/Notes/DBMS.md",
     "content/Notes/Database Management",
+    "content/posts/How it works.md",
     "Untitled.md",
     "public/scss/dark-mode.min.d40d77dc272f19daa4c01de467ffa7bcddc86fbc869ec155232944d457afae89.css",
     "public/scss/dark-mode.min.1b68f32397cf782817dfbd7b19f88c507cb681ffe986a416772e80878386033b.css",

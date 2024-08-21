@@ -1,0 +1,9 @@
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/KshitijChandrakar/hugo-book
+[submodule "content.en"]
+	path = content
+	url = https://github.com/KshitijChandrakar/content.en
+[submodule "content"]
+	path = content
+	url = https://github.com/KshitijChandrakar/content.en
