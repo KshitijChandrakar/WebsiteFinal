@@ -6,20 +6,20 @@
     <description>Recent content in DBMS on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Aug 2024 01:11:13 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 10:58:08 -0400</lastBuildDate>
     <atom:link href="//localhost:1313/tags/DBMS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBMS August 9</title>
-      <link>//localhost:1313/Notes/DBMS/DBMS/</link>
+      <link>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/DBMS/</guid>
+      <guid>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</guid>
       <description>#databases #semester3&#xA;Reference&#xD;#&#xD;Oracle Docs W3Schools Reference&#xA;Characteristics of Database Approach&#xD;#&#xD;Main Characteristics of Database Approach Self Describing nature of a DB System [ Catalog of the Data ] it contains the DB and Metadata The DB Catalog is Used by DBMS Software DB Users Comparision with Traditional File Processing (TFP)&#xD;#&#xD;TFP can only access specific DBs&#xD;Insulation between program and data abstraction Program Data Independence - structure of the data files is stored in dbms catalog separatey from access programs VS TFP Any Change to the Structure should be reflect in the corresponding programs Program operation Independence In DDDBMS and ORDBMS users can define operations on data as part of DB Definitions an operation is specified in two parts implementation of the operation is specified separately and can be changed without affecting the instance Data Abstraction Allows program data independence and Program Operation Independence It provides users with conceptual representation of data Supports Multiple Views of Data Supports Multiuser Transaction Processing Multiuser DBMS Concorrency Control Software Online Transaction Processing Application </description>
     </item>
     <item>
-      <title>DBMS August 14</title>
-      <link>//localhost:1313/Notes/DBMS/DBMS-August-14-2024/</link>
+      <title>August 14</title>
+      <link>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/DBMS-August-14-2024/</guid>
+      <guid>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</guid>
       <description>create table customers ( cid int constraint pk primary key, customer_name varchar(20) check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Adding a name to the constraint&#xD;#&#xD;create table customers ( cid int constraint pk primary key, customer_name varchar(20) constraint ck check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Dropping the constraint&#xD;#&#xD;Alter TABLE customers drop constraint ck ![[Pasted image 20240814143949.</description>
     </item>
   </channel>

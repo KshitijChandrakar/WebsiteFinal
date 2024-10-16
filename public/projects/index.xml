@@ -14,5 +14,19 @@
       <guid>//localhost:1313/projects/Birds-of-Yunhan/</guid>
       <description>Github Repo</description>
     </item>
+    <item>
+      <title>Dick Dodger 3000</title>
+      <link>//localhost:1313/projects/Dick-Dodger-3000/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/Dick-Dodger-3000/</guid>
+      <description>Partial Movenet Implementation. Its a game in which a cat dodges dicks. (So Real of Her) You can either control it via the keyboard or by using your own body along with a webcam.&#xA;Github Repo</description>
+    </item>
+    <item>
+      <title>Wordle&#39;s End</title>
+      <link>//localhost:1313/projects/wordle-Solver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/wordle-Solver/</guid>
+      <description>It solves 5 letter wordle&#xA;Github Repo</description>
+    </item>
   </channel>
 </rss>

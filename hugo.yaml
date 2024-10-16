@@ -20,6 +20,16 @@ markup:
       unsafe: true
   tableOfContents:
     startLevel: 1
+  extensions:
+    passthrough:
+      delimiters:
+        inline:
+          - - \(
+          - \)
+        block:
+          - - \[
+          - \]
+      enable: true
 
 # Multi-lingual mode config
 # There are different options to translate files
@@ -41,6 +51,7 @@ menu:
       weight: 13
 
 params:
+  math : True
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme: "auto"
