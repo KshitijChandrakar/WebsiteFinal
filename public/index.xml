@@ -2,311 +2,311 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Carmelia Rose</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content in Introduction on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Aug 2024 16:12:27 +0530</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>With ToC</title>
-      <link>//localhost:1313/docs/example/table-of-contents/with-toc/</link>
+      <link>/docs/example/table-of-contents/with-toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/example/table-of-contents/with-toc/</guid>
+      <guid>/docs/example/table-of-contents/with-toc/</guid>
       <description>Caput vino delphine in tamen vias&#xD;#&#xD;Cognita laeva illo fracta&#xD;#&#xD;Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.&#xA;Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere&#xD;#&#xD;Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
     </item>
     <item>
       <title>DBMS August 9</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</link>
+      <link>/Notes/DBMS/Notes/August-9-2024/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-9-2024/</guid>
       <description>#databases #semester3&#xA;Reference&#xD;#&#xD;Oracle Docs W3Schools Reference&#xA;Characteristics of Database Approach&#xD;#&#xD;Main Characteristics of Database Approach Self Describing nature of a DB System [ Catalog of the Data ] it contains the DB and Metadata The DB Catalog is Used by DBMS Software DB Users Comparision with Traditional File Processing (TFP)&#xD;#&#xD;TFP can only access specific DBs&#xD;Insulation between program and data abstraction Program Data Independence - structure of the data files is stored in dbms catalog separatey from access programs VS TFP Any Change to the Structure should be reflect in the corresponding programs Program operation Independence In DDDBMS and ORDBMS users can define operations on data as part of DB Definitions an operation is specified in two parts implementation of the operation is specified separately and can be changed without affecting the instance Data Abstraction Allows program data independence and Program Operation Independence It provides users with conceptual representation of data Supports Multiple Views of Data Supports Multiuser Transaction Processing Multiuser DBMS Concorrency Control Software Online Transaction Processing Application </description>
     </item>
     <item>
       <title>Without ToC</title>
-      <link>//localhost:1313/docs/example/table-of-contents/without-toc/</link>
+      <link>/docs/example/table-of-contents/without-toc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/example/table-of-contents/without-toc/</guid>
+      <guid>/docs/example/table-of-contents/without-toc/</guid>
       <description>At me ipso nepotibus nunc celebratior genus&#xD;#&#xD;Tanto oblite&#xD;#&#xD;Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.&#xA;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
     </item>
     <item>
       <title>August 14</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</link>
+      <link>/Notes/DBMS/Notes/August-14-2024/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-14-2024/</guid>
       <description>create table customers ( cid int constraint pk primary key, customer_name varchar(20) check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Adding a name to the constraint&#xD;#&#xD;create table customers ( cid int constraint pk primary key, customer_name varchar(20) constraint ck check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Dropping the constraint&#xD;#&#xD;Alter TABLE customers drop constraint ck ![[Pasted image 20240814143949.</description>
     </item>
     <item>
       <title>DAA August 9</title>
-      <link>//localhost:1313/Notes/DAA/DAA-9-August-2024/</link>
+      <link>/Notes/DAA/DAA-9-August-2024/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DAA/DAA-9-August-2024/</guid>
+      <guid>/Notes/DAA/DAA-9-August-2024/</guid>
       <description>&#xD;Suggested Books:&#xD;#&#xD;Thomas H Orman - DAA&#xA;Algorithm Design Manual&#xA;GCD Code:&#xA;def gcd(m,n): while n != 0 do: r = m mod n m = n n = r return m def gcd(m,n): t = min (m,n) while true: if m%t = 0: if n%t = 0: return t t = t - 1 General Approaches To Algorithm Design&#xA;Divide and Conquer Greedy Method Dynamic Programming Basic Search and Traversal Graph Theory Linear Programming Approximation Algorithm NP Problem HW 9 Aug: Find the prime factors of a given number </description>
     </item>
     <item>
       <title>How To Make a White Sauce Pasta</title>
-      <link>//localhost:1313/recipes/cumPasta/</link>
+      <link>/recipes/cumPasta/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/recipes/cumPasta/</guid>
+      <guid>/recipes/cumPasta/</guid>
       <description>Ingredients&#xD;#&#xD;Aight Dipshits here&amp;rsquo;s what you absolutely need to make it for two people&#xA;Name Quantity Milk 2 Cups like 200ml Maida 2 teaspoons Cheese as much as your heart desires Pasta Like, whatever you think would fit two people, i use like 250 to 300gm Salt like 1 to 1.5 tablespoons, but put according to your tastes And Here&amp;rsquo;s What you need to make it magical and actually have flavour</description>
     </item>
     <item>
       <title>On Server Hosting</title>
-      <link>//localhost:1313/posts/On-Servers/</link>
+      <link>/posts/On-Servers/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/posts/On-Servers/</guid>
+      <guid>/posts/On-Servers/</guid>
       <description>Cloud&#xD;#&#xD;So What are we looking for in a web service provider? here&amp;rsquo;s what I&amp;rsquo;ll base them on-&#xA;Design Process - How complex the work is and weather or not it has a UI Designer Integration - How much of a pain is it to set up your own services on it Community - How big and supportive the community is Here are the options . Option Rating (Out of 15) Design Integration Community Remarks Wordpress 15 5 5 5 Pretty Good For begginers, You can Get a site up pretty quickly, Pretty Decent Community, Lots of themes Neocities 9 2 2 5 Personal Favorite, Amazing Community, Great if you want to Configure Stuff Yourself, Not so great when you want to do it quickly, uploading files is finicky.</description>
     </item>
     <item>
       <title>Servers Documentation</title>
-      <link>//localhost:1313/posts/How-it-works/</link>
+      <link>/posts/How-it-works/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/posts/How-it-works/</guid>
+      <guid>/posts/How-it-works/</guid>
       <description>Well There are a few domains that you can refer to in order to access the Server&#xA;Blog Site My Calibre Server Jellyfin Media Server coder server, coder server domain 2 there is a coding cloud server too, however i do not run it very often as VS code tunnels were more efficient. QBittorrent Web Interface </description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Pasted/</link>
+      <link>/Pasted/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Pasted/</guid>
+      <guid>/Pasted/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contact/</guid>
+      <guid>/contact/</guid>
       <description>You Can Email me at KshitijChandrakar2019@gmail.com&#xA;Github&#xA;Instagram Linkedin</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/example/collapsed/3rd-level/4th-level/</link>
+      <link>/docs/example/collapsed/3rd-level/4th-level/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <guid>/docs/example/collapsed/3rd-level/4th-level/</guid>
       <description>4th Level of Menu&#xD;#&#xD;Caesorum illa tu sentit micat vestes papyriferi&#xD;#&#xD;Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.&#xA;Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/example/hidden/</link>
+      <link>/docs/example/hidden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/example/hidden/</guid>
+      <guid>/docs/example/hidden/</guid>
       <description>This page is hidden in menu&#xD;#&#xD;Quondam non pater est dignior ille Eurotas&#xD;#&#xD;Latent te facies&#xD;#&#xD;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.&#xA;Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona&#xD;#&#xD;O fallor in sustinui iussorum equidem.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/buttons/</link>
+      <link>/docs/shortcodes/buttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/buttons/</guid>
+      <guid>/docs/shortcodes/buttons/</guid>
       <description>&#xD;Buttons&#xD;#&#xD;Buttons are styled links that can lead to local page or external link.&#xA;Example&#xD;#&#xD;{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get Home&#xD;Contribute&#xD;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/columns/</link>
+      <link>/docs/shortcodes/columns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/columns/</guid>
+      <guid>/docs/shortcodes/columns/</guid>
       <description>Columns&#xD;#&#xD;Columns help organize shorter pieces of content horizontally for readability.&#xA;{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example&#xD;#&#xD;Left Content&#xD;#&#xD;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/details/</link>
+      <link>/docs/shortcodes/details/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/details/</guid>
+      <guid>/docs/shortcodes/details/</guid>
       <description>Details&#xD;#&#xD;Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.&#xA;Example&#xD;#&#xD;{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne&amp;hellip;</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/expand/</link>
+      <link>/docs/shortcodes/expand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/expand/</guid>
+      <guid>/docs/shortcodes/expand/</guid>
       <description>Expand&#xD;#&#xD;Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.&#xA;Example&#xD;#&#xD;Default&#xD;#&#xD;{{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand&#xD;↕&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne&amp;hellip;&#xA;With Custom Label&#xD;#&#xD;{{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label&#xD;...&#xD;Markdown content&#xD;#&#xD;Lorem markdownum insigne.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/hints/</link>
+      <link>/docs/shortcodes/hints/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/hints/</guid>
+      <guid>/docs/shortcodes/hints/</guid>
       <description>Hints&#xD;#&#xD;Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example&#xD;#&#xD;Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa&#xD;Markdown content</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/mermaid/</link>
+      <link>/docs/shortcodes/mermaid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/mermaid/</guid>
+      <guid>/docs/shortcodes/mermaid/</guid>
       <description>Mermaid Chart&#xD;#&#xD;MermaidJS is library for generating svg charts and diagrams from text.&#xA;Override Mermaid Initialization Config&#xA;To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!&#xA;Example&#xD;#&#xD;{{&amp;lt; mermaid class=&amp;#34;optional&amp;#34; &amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/section/first-page/</link>
+      <link>/docs/shortcodes/section/first-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/section/first-page/</guid>
+      <guid>/docs/shortcodes/section/first-page/</guid>
       <description>First page&#xD;#&#xD;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/section/second-page/</link>
+      <link>/docs/shortcodes/section/second-page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/section/second-page/</guid>
+      <guid>/docs/shortcodes/section/second-page/</guid>
       <description>Second Page&#xD;#&#xD;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/docs/shortcodes/tabs/</link>
+      <link>/docs/shortcodes/tabs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/tabs/</guid>
+      <guid>/docs/shortcodes/tabs/</guid>
       <description>Tabs&#xD;#&#xD;Tabs let you organize content by context, for example installation instructions for each supported platform.&#xA;{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example&#xD;#&#xD;MacOS&#xD;MacOS&#xD;#&#xD;This is tab MacOS content.&#xA;Lorem markdownum insigne. Olympo signis Delphis!</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/AIML/Syllabus/</link>
+      <link>/Notes/AIML/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/AIML/Syllabus/</guid>
+      <guid>/Notes/AIML/Syllabus/</guid>
       <description>![[Syllabus Elements of AIML.pdf]]</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DAA/Assignment-1/</link>
+      <link>/Notes/DAA/Assignment-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DAA/Assignment-1/</guid>
+      <guid>/Notes/DAA/Assignment-1/</guid>
       <description>Assignment 1 DAA&#xD;#&#xD;Name: Kshitij Chandrakar Batch: 49 SAP: 500124827&#xA;Q2:&#xD;#&#xD;Code:&#xD;#&#xD;#include &amp;lt;iostream&amp;gt; #include &amp;lt;vector&amp;gt; #include &amp;lt;algorithm&amp;gt; #include &amp;lt;string&amp;gt; #include &amp;lt;utility&amp;gt; using namespace std; const int TotalUsers = 4; void allocateBandwidth(const string users[], const int userBandwidth[], const int userValues[], const int totalBandwidth) { double VBRatio[TotalUsers]; // Calculate value-to-bandwidth ratios for (int i = 0; i &amp;lt; TotalUsers; ++i) { VBRatio[i] = static_cast&amp;lt;double&amp;gt;(userValues[i]) / userBandwidth[i]; } // Sort users by value-to-bandwidth ratio for (int i = 0; i &amp;lt; TotalUsers - 1; ++i) { for (int j = 0; j &amp;lt; TotalUsers - i - 1; ++j) { if (VBRatio[j] &amp;lt; VBRatio[j + 1]) { swap(VBRatio[j], VBRatio[j + 1]); swap(users[j], users[j + 1]); swap(userBandwidth[j], userBandwidth[j + 1]); swap(userValues[j], userValues[j + 1]); } } } int remainingBandwidth = totalBandwidth; double totalValue = 0.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DAA/Syllabus/</link>
+      <link>/Notes/DAA/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DAA/Syllabus/</guid>
+      <guid>/Notes/DAA/Syllabus/</guid>
       <description>![[DAA_ Syllabus Th+Lab.pdf]]</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-5/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-5/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-5/</guid>
       <description>Creating The Tables&#xD;#&#xD;CREATE TABLE Students ( student_id INT PRIMARY KEY, first_name VARCHAR(50), last_name VARCHAR(50), email VARCHAR(100), major VARCHAR(50) ); CREATE TABLE Courses ( course_id INT PRIMARY KEY, course_name VARCHAR(100), instructor VARCHAR(50), credits INT ); CREATE TABLE Enrollments ( enrollment_id INT PRIMARY KEY, student_id INT, course_id INT, grade DECIMAL(4,2), FOREIGN KEY (student_id) REFERENCES Students(student_id), FOREIGN KEY (course_id) REFERENCES Courses(course_id) ); Inserting Values&#xD;#&#xD;INSERT ALL INTO Students VALUES (1, &amp;#39;Traveler&amp;#39;, &amp;#39;Aether&amp;#39;, &amp;#39;aether@genshin.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DBMS/Syllabus/</link>
+      <link>/Notes/DBMS/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Syllabus/</guid>
+      <guid>/Notes/DBMS/Syllabus/</guid>
       <description>![[Theory Syllabus (LMS).pdf]]</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</link>
+      <link>/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</guid>
+      <guid>/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</guid>
       <description>Eulerian Graphs&#xD;#&#xD;An Eulerian graph is a type of graph that contains an Eulerian circuit (or Eulerian cycle), which is a trail that visits every edge of the graph exactly once and returns to the starting vertex. Eulerian graphs are named after the mathematician Leonhard Euler, who studied these properties in the 18th century.&#xA;Key Characteristics of Eulerian Graphs&#xD;#&#xD;Eulerian Circuit: A graph is said to have an Eulerian circuit if:</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Maths/Logical-Identifying-Boobs/</link>
+      <link>/Notes/Maths/Logical-Identifying-Boobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Maths/Logical-Identifying-Boobs/</guid>
+      <guid>/Notes/Maths/Logical-Identifying-Boobs/</guid>
       <description>Logical identities (also known as laws of logic) are standard equivalences or rules that hold in propositional logic. These can be used to simplify logical expressions or prove statements like tautologies. Below are some of the most commonly used logical identities, categorized by type:&#xA;1. Basic Identities&#xD;#&#xD;Identity Law: $$( P \land \text{True} \equiv P )$$$$( P \lor \text{False} \equiv P ) $$&#xA;Domination Law (Annihilation Law): $$( P \land \text{False} \equiv \text{False} )$$$$ ( P \lor \text{True} \equiv \text{True} ) $$</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Maths/Set-Identities/</link>
+      <link>/Notes/Maths/Set-Identities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Maths/Set-Identities/</guid>
+      <guid>/Notes/Maths/Set-Identities/</guid>
       <description>Here are some fundamental set identities, presented with mathematical notation:&#xA;1. Union and Intersection Identities:&#xD;#&#xD;Idempotent Laws: $$ A \cup A = A $$ $$ A \cap A = A $$&#xA;Identity Laws: $$ A \cup \emptyset = A $$ $$ A \cap U = A $$ (where ( U ) is the universal set) $$ A \cup U = U $$ $$ A \cap \emptyset = \emptyset $$</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Maths/Syllabus/</link>
+      <link>/Notes/Maths/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Maths/Syllabus/</guid>
+      <guid>/Notes/Maths/Syllabus/</guid>
       <description>![[Discrete Mathematical Structures_CSEG2006_B.Tech. SOCS.pdf]]</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Untitled/</link>
+      <link>/Notes/Untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Untitled/</guid>
+      <guid>/Notes/Untitled/</guid>
       <description></description>
     </item>
     <item>
       <title>August 21</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-21-2024/</link>
+      <link>/Notes/DBMS/Notes/August-21-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-21-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-21-2024/</guid>
       <description>On Seeing Information about the catalog&#xD;#&#xD;#sql #sqlmetadata&#xA;--Find the tables select table_name from user_tables --Show the schemas that the current user has access to select username from all_users On Aliases&#xD;#&#xD;#sqlselect #sql using the as keyword you can provide an alias to a column name in select&#xA;select first_name as FORENAME from tname However it will output the alias in capitals regardless of the case. Using quotes will make it case sensitive.</description>
     </item>
     <item>
       <title>August 22</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/22-August-2024/</link>
+      <link>/Notes/DBMS/Notes/22-August-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/22-August-2024/</guid>
+      <guid>/Notes/DBMS/Notes/22-August-2024/</guid>
       <description> X = int(input(&amp;#34;&amp;#34;)) def Perms(n,k): if k &amp;gt; n: return if n == 0: return 1 if n == 1: return 1 P = 1 for i in range(k): P = P * (n-i) return P def IntList(Arr): for i in range(len(Arr)): Arr[i] = int(Arr[i]) def SubSeq(Seq, n, k): pass def idk(): for x in range(X): n,k = input(&amp;#34;&amp;#34;).split(&amp;#34; &amp;#34;, 2) n,k = int(n),int(k) Seq = input(&amp;#34;&amp;#34;) Seq = SubSeq(Seq, n, k) </description>
     </item>
     <item>
       <title>August 28</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/28-August/</link>
+      <link>/Notes/DBMS/Notes/28-August/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/28-August/</guid>
+      <guid>/Notes/DBMS/Notes/28-August/</guid>
       <description>&#xD;Circular Dependency&#xD;#&#xD;create table employee_table ( NAME varchar(20), ssn int not null, super_ssn int, DNO int not null, Primary key (ssn), foreign key (super_ssn) references employee_table(ssn) deferrable initially deferred, foreign key (DNO) references dept_table(DNUMBER) deferrable initially deferred ) ------------------------- create table dept_table ( dname varchar(20), DNUMBER int, mgr_ssn int not null, primary key (DNUMBER) ) ------------------------- alter table dept_table add constraint fkdepttable foreign key (mgr_ssn) references employee_table(ssn) deferrable initially deferred ------------------------- Dropping Circular Dependency&#xD;#&#xD;drop table dept_table cascade constraints Using Transactions&#xD;#&#xD;BEGIN -- To Start Transaction insert into dept_table (name, dnumber, Mgr_ssn) values (&amp;#39;Reserache&amp;#39;, 1, &amp;#39;100&amp;#39;) insert into employee (name, ssn, super_ssn, dno) values (&amp;#39;Gatito&amp;#39;, 12, 12, 1) COMMIT; -- To End Transaction EXCEPTION with others then rollback; raise; </description>
     </item>
     <item>
       <title>Birds of Yunhan</title>
-      <link>//localhost:1313/projects/Birds-of-Yunhan/</link>
+      <link>/projects/Birds-of-Yunhan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/Birds-of-Yunhan/</guid>
+      <guid>/projects/Birds-of-Yunhan/</guid>
       <description>Github Repo</description>
     </item>
     <item>
       <title>Dick Dodger 3000</title>
-      <link>//localhost:1313/projects/Dick-Dodger-3000/</link>
+      <link>/projects/Dick-Dodger-3000/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/Dick-Dodger-3000/</guid>
+      <guid>/projects/Dick-Dodger-3000/</guid>
       <description>Partial Movenet Implementation. Its a game in which a cat dodges dicks. (So Real of Her) You can either control it via the keyboard or by using your own body along with a webcam.&#xA;Github Repo</description>
     </item>
     <item>
       <title>Experiment 4</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-4/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-4/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-4/</guid>
       <description>DBMS Experiment 4&#xD;#&#xD;Name: Kshitij Chandrakar SAP: 500124827 Batch: 49 Date: 4 September 2024&#xA;Question 1&#xD;#&#xD;Creating the Table&#xD;#&#xD;CREATE TABLE SALES ( SaleID number, SaleAmount number, SaleDate date ![[Pasted image 20240904144527.png]] ![[Pasted image 20240904144716.png]]&#xA;Inserting Values&#xD;#&#xD;INSERT ALL into Sales values (110, 4234,&amp;#39;12/12/2024&amp;#39;) into Sales values (221, 3211,&amp;#39;12/14/2024&amp;#39;) into Sales values (353, 1232,&amp;#39;12/15/2024&amp;#39;) into Sales values (353, 2222,&amp;#39;12/13/2024&amp;#39;) into Sales values (3523, 5152,&amp;#39;12/11/2024&amp;#39;) select * from dual !</description>
     </item>
     <item>
       <title>Experiment 8</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-8/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-8/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-8/</guid>
       <description>Experiment 1&#xD;#&#xD;Name: Kshitij Chandrakar Sap: 500124827 Batch: 49&#xA;Q1: Create a sequence by name EMPID_SEQ starting with value 100 with an interval of 1&#xA;CREATE SEQUENCE EMPID_SEQ START WITH 100 INCREMENT BY 1; ![[Pasted image 20240923144939.png]] Q2: Write a SQL command for finding the current and the next status of EMPID_SEQ.&#xA;SELECT EMPID_SEQ.CURRVAL AS current_value, EMPID_SEQ.NEXTVAL AS next_value FROM DUAL; ![[Pasted image 20240923143953.png]]&#xA;Q3:&#xA;ALTER SEQUENCE EMPID_SEQ CACHE 20 MAXVALUE 1000; !</description>
     </item>
     <item>
       <title>Experiment 9</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-9/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-9/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-9/</guid>
       <description>Name: Kshitij Chandrakar Batch: 49 SAP: 500124827&#xA;1&#xD;#&#xD;--A CREATE TABLE Orders ( Order_ID INT PRIMARY KEY, Order_Date DATE, Total_Amount DECIMAL(10, 2) ); desc Orders --B CREATE SYNONYM ordersSyn FOR Orders; select * from ordersSyn --C drop table Orders desc Orders --D select * from ordersSyn A&#xD;#&#xD;![[Pasted image 20240925152856.png]]&#xA;B&#xD;#&#xD;![[Pasted image 20240925152933.png]]&#xA;C&#xD;#&#xD;![[Pasted image 20240925152959.png]]&#xA;D&#xD;#&#xD;![[Pasted image 20240925153043.png]]&#xA;2&#xD;#&#xD;--A CREATE TABLE Contracts ( Contracts_ID INT PRIMARY KEY, Contracts_Date DATE, Total_Amount DECIMAL(10, 2) ); desc Contracts --B CREATE SYNONYM contractsSyn FOR Contracts; select * from user_synonyms where synonym_name = &amp;#39;CONTRACTSSYN&amp;#39; --C Alter table contracts add (Name varchar(10)) desc Contracts --D desc contractsSyn A&#xD;#&#xD;!</description>
     </item>
     <item>
       <title>Internships</title>
-      <link>//localhost:1313/posts/Internships/</link>
+      <link>/posts/Internships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/Internships/</guid>
+      <guid>/posts/Internships/</guid>
       <description>P - Pretty Cool&#xA;Resources&#xD;#&#xD;https://www.isro.gov.in/InternshipAndProjects.html https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file https://www.niti.gov.in/sites/default/files/2023-01/NITI_Internship_Guidelines_17012023.pdf http://internship.mea.gov.in Shortlisted&#xD;#&#xD;MotionBeats mailto:contact@motionbeats.studio&#xA;MotionBeats mailto:contact@motionbeats.studio AugmentedByte https://www.augmentedbyte.com/ </description>
     </item>
     <item>
       <title>KaTeX</title>
-      <link>//localhost:1313/docs/shortcodes/katex/</link>
+      <link>/docs/shortcodes/katex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/docs/shortcodes/katex/</guid>
+      <guid>/docs/shortcodes/katex/</guid>
       <description>KaTeX&#xD;#&#xD;KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example&#xD;#&#xD;{{&amp;lt; katex display=true class=&amp;#34;optional&amp;#34; &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}} \[&#xD;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;\]&#xD;Display Mode Example&#xD;#&#xD;Here is some inline example: \(\pi(x)\)&#xD;, rendered in the same line. And below is display example, having display: block \[&#xD;f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi&#xD;\]&#xD;Text continues here.</description>
     </item>
     <item>
       <title>syllabus</title>
-      <link>//localhost:1313/Notes/Syllabus/</link>
+      <link>/Notes/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Syllabus/</guid>
+      <guid>/Notes/Syllabus/</guid>
       <description>Maths Mid Sems: Portions for MID SEM are: Unit 1 and 2 completely ( Logic, relations and functions) Unit 6 Graph theory: Graphs and Graph model, Basic terminology of graphs Special types of Graphs (complete, cycle, wheel, bipartite), Representing Graphs (Adjacency and Incidence Matrices ) Graph isomorphism Vertex and Edge connectivity Konigsberg Bridge problem, Euler Graph Travelling Salesman problem, Hamiltonian Graphs Shortest path problems&#xA;DAA Midsems: Unit 1 and 3</description>
     </item>
     <item>
       <title>Wordle&#39;s End</title>
-      <link>//localhost:1313/projects/wordle-Solver/</link>
+      <link>/projects/wordle-Solver/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/wordle-Solver/</guid>
+      <guid>/projects/wordle-Solver/</guid>
       <description>It solves 5 letter wordle&#xA;Github Repo</description>
     </item>
   </channel>

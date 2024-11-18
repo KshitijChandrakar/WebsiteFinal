@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carmelia Rose</title>
-    <link>//localhost:1313/Notes/</link>
+    <link>/Notes/</link>
     <description>Recent content on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/Notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/Notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/Untitled/</link>
+      <link>/Notes/Untitled/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Untitled/</guid>
+      <guid>/Notes/Untitled/</guid>
       <description></description>
     </item>
     <item>
       <title>syllabus</title>
-      <link>//localhost:1313/Notes/Syllabus/</link>
+      <link>/Notes/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/Syllabus/</guid>
+      <guid>/Notes/Syllabus/</guid>
       <description>Maths Mid Sems: Portions for MID SEM are: Unit 1 and 2 completely ( Logic, relations and functions) Unit 6 Graph theory: Graphs and Graph model, Basic terminology of graphs Special types of Graphs (complete, cycle, wheel, bipartite), Representing Graphs (Adjacency and Incidence Matrices ) Graph isomorphism Vertex and Edge connectivity Konigsberg Bridge problem, Euler Graph Travelling Salesman problem, Hamiltonian Graphs Shortest path problems&#xA;DAA Midsems: Unit 1 and 3</description>
     </item>
   </channel>

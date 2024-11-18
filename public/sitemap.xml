@@ -2,188 +2,188 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/docs/example/</loc>
+    <loc>/docs/example/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/table-of-contents/with-toc/</loc>
+    <loc>/docs/example/table-of-contents/with-toc/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</loc>
+    <loc>/Notes/DBMS/Notes/August-9-2024/</loc>
     <lastmod>2024-08-09T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/docs/example/table-of-contents/without-toc/</loc>
+    <loc>/docs/example/table-of-contents/without-toc/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/table-of-contents/</loc>
+    <loc>/docs/example/table-of-contents/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/collapsed/</loc>
+    <loc>/docs/example/collapsed/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/</loc>
+    <loc>/Notes/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/</loc>
+    <loc>/Notes/DBMS/</loc>
     <lastmod>2024-08-14T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</loc>
+    <loc>/Notes/DBMS/Notes/August-14-2024/</loc>
     <lastmod>2024-08-14T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/DBMS/</loc>
+    <loc>/tags/DBMS/</loc>
     <lastmod>2024-08-14T10:58:08-04:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/Notes/</loc>
+    <loc>/categories/Notes/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/semester3/</loc>
+    <loc>/tags/semester3/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/Notes/DAA/</loc>
+    <loc>/Notes/DAA/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/DAA/</loc>
+    <loc>/tags/DAA/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/Notes/DAA/DAA-9-August-2024/</loc>
+    <loc>/Notes/DAA/DAA-9-August-2024/</loc>
     <lastmod>2024-08-17T00:45:35+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/recipes/</loc>
+    <loc>/recipes/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/food/</loc>
+    <loc>/tags/food/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/hosting/</loc>
+    <loc>/tags/hosting/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/recipes/cumPasta/</loc>
+    <loc>/recipes/cumPasta/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/On-Servers/</loc>
+    <loc>/posts/On-Servers/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/pasta/</loc>
+    <loc>/tags/pasta/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/recipes/</loc>
+    <loc>/categories/recipes/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/server/</loc>
+    <loc>/tags/server/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/How-it-works/</loc>
+    <loc>/posts/How-it-works/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/Story/</loc>
+    <loc>/categories/Story/</loc>
     <lastmod>2024-08-21T16:12:27+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/Pasted/</loc>
+    <loc>/Pasted/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/</loc>
+    <loc>/docs/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/collapsed/3rd-level/4th-level/</loc>
+    <loc>/docs/example/collapsed/3rd-level/4th-level/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/collapsed/3rd-level/</loc>
+    <loc>/docs/example/collapsed/3rd-level/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/example/hidden/</loc>
+    <loc>/docs/example/hidden/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/</loc>
+    <loc>/docs/shortcodes/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/buttons/</loc>
+    <loc>/docs/shortcodes/buttons/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/columns/</loc>
+    <loc>/docs/shortcodes/columns/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/details/</loc>
+    <loc>/docs/shortcodes/details/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/expand/</loc>
+    <loc>/docs/shortcodes/expand/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/hints/</loc>
+    <loc>/docs/shortcodes/hints/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/mermaid/</loc>
+    <loc>/docs/shortcodes/mermaid/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/section/</loc>
+    <loc>/docs/shortcodes/section/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/section/first-page/</loc>
+    <loc>/docs/shortcodes/section/first-page/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/section/second-page/</loc>
+    <loc>/docs/shortcodes/section/second-page/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/tabs/</loc>
+    <loc>/docs/shortcodes/tabs/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/AIML/</loc>
+    <loc>/Notes/AIML/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/AIML/Syllabus/</loc>
+    <loc>/Notes/AIML/Syllabus/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DAA/Assignment-1/</loc>
+    <loc>/Notes/DAA/Assignment-1/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DAA/Syllabus/</loc>
+    <loc>/Notes/DAA/Syllabus/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-5/</loc>
+    <loc>/Notes/DBMS/Experiments/DBMS-Experiment-5/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Syllabus/</loc>
+    <loc>/Notes/DBMS/Syllabus/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Maths/</loc>
+    <loc>/Notes/Maths/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</loc>
+    <loc>/Notes/Maths/Hamiltonian-and-Eulerian-Graphs/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Maths/Logical-Identifying-Boobs/</loc>
+    <loc>/Notes/Maths/Logical-Identifying-Boobs/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Maths/Set-Identities/</loc>
+    <loc>/Notes/Maths/Set-Identities/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Maths/Syllabus/</loc>
+    <loc>/Notes/Maths/Syllabus/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/OS/</loc>
+    <loc>/Notes/OS/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Untitled/</loc>
+    <loc>/Notes/Untitled/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Notes/August-21-2024/</loc>
+    <loc>/Notes/DBMS/Notes/August-21-2024/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Notes/22-August-2024/</loc>
+    <loc>/Notes/DBMS/Notes/22-August-2024/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Notes/28-August/</loc>
+    <loc>/Notes/DBMS/Notes/28-August/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/Birds-of-Yunhan/</loc>
+    <loc>/projects/Birds-of-Yunhan/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/development/</loc>
+    <loc>/tags/development/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/Dick-Dodger-3000/</loc>
+    <loc>/projects/Dick-Dodger-3000/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-4/</loc>
+    <loc>/Notes/DBMS/Experiments/DBMS-Experiment-4/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-8/</loc>
+    <loc>/Notes/DBMS/Experiments/DBMS-Experiment-8/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-9/</loc>
+    <loc>/Notes/DBMS/Experiments/DBMS-Experiment-9/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/game/</loc>
+    <loc>/tags/game/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/game-development/</loc>
+    <loc>/tags/game-development/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/godot/</loc>
+    <loc>/tags/godot/</loc>
   </url><url>
-    <loc>//localhost:1313/Hire-Me/</loc>
+    <loc>/Hire-Me/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/Internships/</loc>
+    <loc>/posts/Internships/</loc>
   </url><url>
-    <loc>//localhost:1313/docs/shortcodes/katex/</loc>
+    <loc>/docs/shortcodes/katex/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/projects/</loc>
+    <loc>/categories/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/python/</loc>
+    <loc>/tags/python/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/script/</loc>
+    <loc>/tags/script/</loc>
   </url><url>
-    <loc>//localhost:1313/Notes/Syllabus/</loc>
+    <loc>/Notes/Syllabus/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/wordle-Solver/</loc>
+    <loc>/projects/wordle-Solver/</loc>
   </url>
 </urlset>

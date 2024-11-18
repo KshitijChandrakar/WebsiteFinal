@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carmelia Rose</title>
-    <link>//localhost:1313/Notes/DBMS/</link>
+    <link>/Notes/DBMS/</link>
     <description>Recent content on Carmelia Rose</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Aug 2024 10:58:08 -0400</lastBuildDate>
-    <atom:link href="//localhost:1313/Notes/DBMS/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/Notes/DBMS/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DBMS August 9</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</link>
+      <link>/Notes/DBMS/Notes/August-9-2024/</link>
       <pubDate>Fri, 09 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-9-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-9-2024/</guid>
       <description>#databases #semester3&#xA;Reference&#xD;#&#xD;Oracle Docs W3Schools Reference&#xA;Characteristics of Database Approach&#xD;#&#xD;Main Characteristics of Database Approach Self Describing nature of a DB System [ Catalog of the Data ] it contains the DB and Metadata The DB Catalog is Used by DBMS Software DB Users Comparision with Traditional File Processing (TFP)&#xD;#&#xD;TFP can only access specific DBs&#xD;Insulation between program and data abstraction Program Data Independence - structure of the data files is stored in dbms catalog separatey from access programs VS TFP Any Change to the Structure should be reflect in the corresponding programs Program operation Independence In DDDBMS and ORDBMS users can define operations on data as part of DB Definitions an operation is specified in two parts implementation of the operation is specified separately and can be changed without affecting the instance Data Abstraction Allows program data independence and Program Operation Independence It provides users with conceptual representation of data Supports Multiple Views of Data Supports Multiuser Transaction Processing Multiuser DBMS Concorrency Control Software Online Transaction Processing Application </description>
     </item>
     <item>
       <title>August 14</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</link>
+      <link>/Notes/DBMS/Notes/August-14-2024/</link>
       <pubDate>Wed, 14 Aug 2024 10:58:08 -0400</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-14-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-14-2024/</guid>
       <description>create table customers ( cid int constraint pk primary key, customer_name varchar(20) check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Adding a name to the constraint&#xD;#&#xD;create table customers ( cid int constraint pk primary key, customer_name varchar(20) constraint ck check (customer_name is NOT null) ) insert into customers (cid, customer_name) values(1, &amp;#39;name&amp;#39;) Dropping the constraint&#xD;#&#xD;Alter TABLE customers drop constraint ck ![[Pasted image 20240814143949.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-5/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-5/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-5/</guid>
       <description>Creating The Tables&#xD;#&#xD;CREATE TABLE Students ( student_id INT PRIMARY KEY, first_name VARCHAR(50), last_name VARCHAR(50), email VARCHAR(100), major VARCHAR(50) ); CREATE TABLE Courses ( course_id INT PRIMARY KEY, course_name VARCHAR(100), instructor VARCHAR(50), credits INT ); CREATE TABLE Enrollments ( enrollment_id INT PRIMARY KEY, student_id INT, course_id INT, grade DECIMAL(4,2), FOREIGN KEY (student_id) REFERENCES Students(student_id), FOREIGN KEY (course_id) REFERENCES Courses(course_id) ); Inserting Values&#xD;#&#xD;INSERT ALL INTO Students VALUES (1, &amp;#39;Traveler&amp;#39;, &amp;#39;Aether&amp;#39;, &amp;#39;aether@genshin.</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/Notes/DBMS/Syllabus/</link>
+      <link>/Notes/DBMS/Syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Syllabus/</guid>
+      <guid>/Notes/DBMS/Syllabus/</guid>
       <description>![[Theory Syllabus (LMS).pdf]]</description>
     </item>
     <item>
       <title>August 21</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/August-21-2024/</link>
+      <link>/Notes/DBMS/Notes/August-21-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/August-21-2024/</guid>
+      <guid>/Notes/DBMS/Notes/August-21-2024/</guid>
       <description>On Seeing Information about the catalog&#xD;#&#xD;#sql #sqlmetadata&#xA;--Find the tables select table_name from user_tables --Show the schemas that the current user has access to select username from all_users On Aliases&#xD;#&#xD;#sqlselect #sql using the as keyword you can provide an alias to a column name in select&#xA;select first_name as FORENAME from tname However it will output the alias in capitals regardless of the case. Using quotes will make it case sensitive.</description>
     </item>
     <item>
       <title>August 22</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/22-August-2024/</link>
+      <link>/Notes/DBMS/Notes/22-August-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/22-August-2024/</guid>
+      <guid>/Notes/DBMS/Notes/22-August-2024/</guid>
       <description> X = int(input(&amp;#34;&amp;#34;)) def Perms(n,k): if k &amp;gt; n: return if n == 0: return 1 if n == 1: return 1 P = 1 for i in range(k): P = P * (n-i) return P def IntList(Arr): for i in range(len(Arr)): Arr[i] = int(Arr[i]) def SubSeq(Seq, n, k): pass def idk(): for x in range(X): n,k = input(&amp;#34;&amp;#34;).split(&amp;#34; &amp;#34;, 2) n,k = int(n),int(k) Seq = input(&amp;#34;&amp;#34;) Seq = SubSeq(Seq, n, k) </description>
     </item>
     <item>
       <title>August 28</title>
-      <link>//localhost:1313/Notes/DBMS/Notes/28-August/</link>
+      <link>/Notes/DBMS/Notes/28-August/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Notes/28-August/</guid>
+      <guid>/Notes/DBMS/Notes/28-August/</guid>
       <description>&#xD;Circular Dependency&#xD;#&#xD;create table employee_table ( NAME varchar(20), ssn int not null, super_ssn int, DNO int not null, Primary key (ssn), foreign key (super_ssn) references employee_table(ssn) deferrable initially deferred, foreign key (DNO) references dept_table(DNUMBER) deferrable initially deferred ) ------------------------- create table dept_table ( dname varchar(20), DNUMBER int, mgr_ssn int not null, primary key (DNUMBER) ) ------------------------- alter table dept_table add constraint fkdepttable foreign key (mgr_ssn) references employee_table(ssn) deferrable initially deferred ------------------------- Dropping Circular Dependency&#xD;#&#xD;drop table dept_table cascade constraints Using Transactions&#xD;#&#xD;BEGIN -- To Start Transaction insert into dept_table (name, dnumber, Mgr_ssn) values (&amp;#39;Reserache&amp;#39;, 1, &amp;#39;100&amp;#39;) insert into employee (name, ssn, super_ssn, dno) values (&amp;#39;Gatito&amp;#39;, 12, 12, 1) COMMIT; -- To End Transaction EXCEPTION with others then rollback; raise; </description>
     </item>
     <item>
       <title>Experiment 4</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-4/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-4/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-4/</guid>
       <description>DBMS Experiment 4&#xD;#&#xD;Name: Kshitij Chandrakar SAP: 500124827 Batch: 49 Date: 4 September 2024&#xA;Question 1&#xD;#&#xD;Creating the Table&#xD;#&#xD;CREATE TABLE SALES ( SaleID number, SaleAmount number, SaleDate date ![[Pasted image 20240904144527.png]] ![[Pasted image 20240904144716.png]]&#xA;Inserting Values&#xD;#&#xD;INSERT ALL into Sales values (110, 4234,&amp;#39;12/12/2024&amp;#39;) into Sales values (221, 3211,&amp;#39;12/14/2024&amp;#39;) into Sales values (353, 1232,&amp;#39;12/15/2024&amp;#39;) into Sales values (353, 2222,&amp;#39;12/13/2024&amp;#39;) into Sales values (3523, 5152,&amp;#39;12/11/2024&amp;#39;) select * from dual !</description>
     </item>
     <item>
       <title>Experiment 8</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-8/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-8/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-8/</guid>
       <description>Experiment 1&#xD;#&#xD;Name: Kshitij Chandrakar Sap: 500124827 Batch: 49&#xA;Q1: Create a sequence by name EMPID_SEQ starting with value 100 with an interval of 1&#xA;CREATE SEQUENCE EMPID_SEQ START WITH 100 INCREMENT BY 1; ![[Pasted image 20240923144939.png]] Q2: Write a SQL command for finding the current and the next status of EMPID_SEQ.&#xA;SELECT EMPID_SEQ.CURRVAL AS current_value, EMPID_SEQ.NEXTVAL AS next_value FROM DUAL; ![[Pasted image 20240923143953.png]]&#xA;Q3:&#xA;ALTER SEQUENCE EMPID_SEQ CACHE 20 MAXVALUE 1000; !</description>
     </item>
     <item>
       <title>Experiment 9</title>
-      <link>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-9/</link>
+      <link>/Notes/DBMS/Experiments/DBMS-Experiment-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/Notes/DBMS/Experiments/DBMS-Experiment-9/</guid>
+      <guid>/Notes/DBMS/Experiments/DBMS-Experiment-9/</guid>
       <description>Name: Kshitij Chandrakar Batch: 49 SAP: 500124827&#xA;1&#xD;#&#xD;--A CREATE TABLE Orders ( Order_ID INT PRIMARY KEY, Order_Date DATE, Total_Amount DECIMAL(10, 2) ); desc Orders --B CREATE SYNONYM ordersSyn FOR Orders; select * from ordersSyn --C drop table Orders desc Orders --D select * from ordersSyn A&#xD;#&#xD;![[Pasted image 20240925152856.png]]&#xA;B&#xD;#&#xD;![[Pasted image 20240925152933.png]]&#xA;C&#xD;#&#xD;![[Pasted image 20240925152959.png]]&#xA;D&#xD;#&#xD;![[Pasted image 20240925153043.png]]&#xA;2&#xD;#&#xD;--A CREATE TABLE Contracts ( Contracts_ID INT PRIMARY KEY, Contracts_Date DATE, Total_Amount DECIMAL(10, 2) ); desc Contracts --B CREATE SYNONYM contractsSyn FOR Contracts; select * from user_synonyms where synonym_name = &amp;#39;CONTRACTSSYN&amp;#39; --C Alter table contracts add (Name varchar(10)) desc Contracts --D desc contractsSyn A&#xD;#&#xD;!</description>
     </item>
   </channel>
